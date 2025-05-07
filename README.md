@@ -30,6 +30,11 @@ The analysis used the Neurotechnology VeriFinger SDK to assess biometric accurac
 
 > This project did not involve custom source code development. All experimentation was conducted using third-party SDKs and pre-existing image datasets.
 
+🎥 Experiment Video
+
+The full video demonstration of the experimental process is available on YouTube:  
+👉 [Watch the experiment video here](https://youtu.be/M3e6xR3-ai4)
+
 📊 Datasets
 
 - High-quality fingerprints from Hong Kong Polytechnic University.
