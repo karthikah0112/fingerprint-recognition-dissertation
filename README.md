@@ -4,7 +4,7 @@ Impact of Image Compression and Format Conversion on Fingerprint Recognition
 Author: Karthik Ashok Honguntikar  
 Institution: University of Plymouth  
 Degree: MSc Cybersecurity
-Date: October 2024
+Date: June 2025
 
  📄 Project Overview
 
