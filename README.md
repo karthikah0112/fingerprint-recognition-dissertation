@@ -55,7 +55,9 @@ A full walkthrough of the fingerprint recognition experiments is available on Yo
 
 📘 Dissertation Access
 
-A full copy of the dissertation is available in this repository (`[dissertation.pdf](https://github.com/karthikah0112/fingerprint-recognition-dissertation/blob/main/IMPACT%20OF%20IMAGE%20COMPRESSION%20AND%20FORMAT%20CONVERSION%20ON%20FINGERPRINT%20RECOGNITION%20EXPLORING%20SECURITY%20AND%20PERFORMANCE%20TRADE-OFFS.pdf)`).  
+A full copy of the dissertation is available in this IMPACT OF IMAGE COMPRESSION AND FORMAT CONVERSION ON
+FINGERPRINT RECOGNITION: EXPLORING SECURITY AND PERFORMANCE TRADE-OFFS.pdf
+ 
 Alternatively, you can request access through the University of Plymouth Learning & Teaching repository.
 
 ❗ Note
