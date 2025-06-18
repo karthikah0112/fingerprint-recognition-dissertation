@@ -49,7 +49,7 @@ These datasets simulate real-world conditions, helping evaluate the effect of co
 🎥 Experiment Video
 
 A full walkthrough of the fingerprint recognition experiments is available on YouTube:  
-👉 [Watch the experiment video here](#) https://youtu.be/M3e6xR3-ai4
+👉 [Watch the experiment video here](https://youtu.be/M3e6xR3-ai4)
 
 📘 Dissertation Access
 
