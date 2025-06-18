@@ -1,6 +1,4 @@
-
-
-🧬 Impact of Image Compression and Format Conversion on Fingerprint Recognition
+# Impact of Image Compression and Format Conversion on Fingerprint Recognition
 
 Author: Karthik Ashok Honguntikar  
 Institution: University of Plymouth  
